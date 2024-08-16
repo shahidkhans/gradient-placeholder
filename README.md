@@ -1,6 +1,6 @@
 # GradientPlaceholderJS Fill Empty images of any size with beautiful Gradient.🌈
 Very light  🪶  and simple and gradient background placeholder 🖼️.
-![GradientPlaceholderJS](sample-image\gradient-placeholder.png)
+![GradientPlaceholderJS](sample-image/gradient-placeholder.png)
 
 
 ## NPM
