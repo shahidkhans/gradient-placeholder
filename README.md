@@ -7,22 +7,22 @@ Very light  🪶  and simple and gradient background placeholder 🖼️.
 
 To use GradientPlaceholderJS  React framework, simply install via NPM or your preferred package manager:
 
-```npm i gradientplaceholder```
+```npm i gradient-placeholder```
 
-```yarn add gradientplaceholder```
+```yarn add gradient-placeholder```
 
-```pnpm add gradientplaceholder```
+```pnpm add gradient-placeholder```
 
 Next, import the package:
 
 ```jsx
-import {GradientPlaceholder} from 'gradientplaceholder';
+import {GradientPlaceholder} from 'gradient-placeholder';
 ```
 
 ### ReactJS / Vite Example
 
 ```
-import { GradientPlaceholder } from "placeholder";
+import { GradientPlaceholder } from "gradient-placeholder";
 
 <GradientPlaceholder width="500" height="500" gradient={['#078efb', '#f9035e']} />
 ```
