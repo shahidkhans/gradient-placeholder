@@ -1,0 +1,30 @@
+{
+  "name": "gradientplaceholder",
+  "version": "1.0.0",
+  "description": "A Must have only 2KB utility for generating customizable SVG placeholders for any dimension image with gradient backgrounds and text.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [ 
+  "very light gradient placeholder",
+  "svg placeholder",
+  "gradient",
+  "custom size svg grandient image",
+  "react gradient placeholder"],
+  "author": "Shahid",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
